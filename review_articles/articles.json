@@ -1,6 +1,90 @@
 {
 	"articles": [
 		{
+			"title": "OPPO Reno7 Pro Review",
+			"date": "January 10, 2022",
+			"link-postfix": "oppo-reno7-pro-review",
+			"img": "https://img.youtube.com/vi/N1ylduD5n5s/maxresdefault.jpg",
+			"video": "https://www.youtube.com/watch?v=N1ylduD5n5s"
+		},
+		{
+			"title": "POCO X3 GT Review",
+			"date": "July 28, 2021",
+			"link-postfix": "poco-x3-gt-review",
+			"img": "https://img.youtube.com/vi/XP9SBccbNNw/maxresdefault.jpg",
+			"video": "https://www.youtube.com/watch?v=XP9SBccbNNw"
+		},
+		{
+			"title": "POCO M3 Pro Review",
+			"date": "June 1, 2021",
+			"link-postfix": "poco-m3-pro-review",
+			"img": "https://img.youtube.com/vi/8_sCbDhV7Ng/maxresdefault.jpg",
+			"video": "https://www.youtube.com/watch?v=8_sCbDhV7Ng"
+		},
+		{
+			"title": "OPPO Find X3 Pro Review",
+			"date": "May 21, 2021",
+			"link-postfix": "oppo-find-x3-pro-review",
+			"img": "https://img.youtube.com/vi/MBFU7gva_KE/maxresdefault.jpg",
+			"video": "https://www.youtube.com/watch?v=MBFU7gva_KE"
+		},
+		{
+			"title": "Mi Band 6 Review",
+			"date": "May 14, 2021",
+			"link-postfix": "mi-band-6-review",
+			"img": "https://img.youtube.com/vi/3C4ikAkyONc/maxresdefault.jpg",
+			"video": "https://www.youtube.com/watch?v=3C4ikAkyONc"
+		},
+		{
+			"title": "POCO X3 Pro Review",
+			"date": "March 28, 2021",
+			"link-postfix": "poco-x3-pro-review",
+			"img": "https://img.youtube.com/vi/unkPpp72xzU/maxresdefault.jpg",
+			"video": "https://www.youtube.com/watch?v=unkPpp72xzU"
+		},
+		{
+			"title": "realme Watch Review",
+			"date": "January 17, 2021",
+			"link-postfix": "realme-watch-review",
+			"img": "https://img.youtube.com/vi/CdxRK2A6HBA/maxresdefault.jpg",
+			"video": "https://www.youtube.com/watch?v=CdxRK2A6HBA"
+		},
+		{
+			"title": "1MORE PistonBuds Review",
+			"date": "January 10, 2021",
+			"link-postfix": "1more-pistonbuds-review",
+			"img": "https://img.youtube.com/vi/D0KLBwhSovM/maxresdefault.jpg",
+			"video": "https://www.youtube.com/watch?v=D0KLBwhSovM"
+		},
+		{
+			"title": "POCO M3 Review",
+			"date": "December 9, 2020",
+			"link-postfix": "poco-m3-review",
+			"img": "https://img.youtube.com/vi/BL82MRlaGmg/maxresdefault.jpg",
+			"video": "https://www.youtube.com/watch?v=BL82MRlaGmg"
+		},
+		{
+			"title": "OnePlus 8T Review",
+			"date": "October 26, 2020",
+			"link-postfix": "oneplus-8t-review",
+			"img": "https://img.youtube.com/vi/SwGWOMXdkQA/maxresdefault.jpg",
+			"video": "https://www.youtube.com/watch?v=SwGWOMXdkQA"
+		},
+		{
+			"title": "Baseus Encok W01 Review",
+			"date": "October 20, 2020",
+			"link-postfix": "baseus-encok-w01-review",
+			"img": "https://img.youtube.com/vi/A5P-Z4J9gBI/maxresdefault.jpg",
+			"video": "https://www.youtube.com/watch?v=A5P-Z4J9gBI"
+		},
+		{
+			"title": "OPPO Reno4 Pro Review",
+			"date": "August 16, 2020",
+			"link-postfix": "oppo-reno4-pro-review",
+			"img": "https://img.youtube.com/vi/ElQbG4OQ-6Y/maxresdefault.jpg",
+			"video": "https://www.youtube.com/watch?v=ElQbG4OQ-6Y"
+		},
+		{
 			"title": "OPPO Watch (46mm) Review",
 			"date": "August 10, 2020",
 			"link-postfix": "oppo-watch-46mm-review",
@@ -11,6 +95,20 @@
 			"date": "February 10, 2020",
 			"link-postfix": "smartwatch-future-of-smartphones",
 			"img": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/article_thumbnails%2FSmartwatch%20Future%20of%20Smartphones.jpg?alt=media&token=b8c3b890-25af-4466-b79c-be25eb253881"
+		},
+		{
+			"title": "OPPO Reno2 Review",
+			"date": "January 24, 2020",
+			"link-postfix": "oppo-reno2-review",
+			"img": "https://img.youtube.com/vi/Cy9TnHaeE98/maxresdefault.jpg",
+			"video": "https://www.youtube.com/watch?v=Cy9TnHaeE98"
+		},
+		{
+			"title": "Vivo NEX 3 Review",
+			"date": "November 22, 2019",
+			"link-postfix": "vivo-nex-3-review",
+			"img": "https://img.youtube.com/vi/xOvVbO6Odbg/maxresdefault.jpg",
+			"video": "https://www.youtube.com/watch?v=xOvVbO6Odbg"
 		},
 		{
 			"title": "Logitech K375s Keyboard & M331 Mouse Review",

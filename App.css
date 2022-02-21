@@ -172,22 +172,37 @@
 	rotate: 180;
 }
 
-/* Colors */
-
-.Color--home {
-	background: rgb(255, 224, 122);
-	background: linear-gradient(
-		135deg,
-		rgba(255, 224, 122, 1) 45%,
-		rgba(255, 115, 167, 1) 100%
-	);
+.Toggle--pagination {
+	width: 40px;
+	height: 40px;
+	border-width: 1px;
+	border-color: #616161;
+	border-style: solid;
+	border-radius: 2px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 2px;
+	cursor: pointer;
 }
 
-.Color--reviews {
-	background: rgb(32, 86, 108);
-	background: linear-gradient(
-		137deg,
-		rgba(32, 86, 108, 1) 25%,
-		rgba(102, 185, 100, 1) 100%
-	);
+.Toggle--pagination-selected {
+	width: 40px;
+	height: 40px;
+	border-width: 1px;
+	border-color: #616161;
+	border-style: solid;
+	border-radius: 2px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 2px;
+	cursor: pointer;
+	background-color: #616161;
+	color: white;
+}
+
+.Toggle--pagination:hover {
+	background-color: #616161;
+	color: white;
 }

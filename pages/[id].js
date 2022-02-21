@@ -1,5 +1,5 @@
-import Article from "../../components/article";
-import articlesFile from "../../review_articles/articles.json";
+import Article from "../components/article";
+import articlesFile from "../review_articles/articles.json";
 
 export async function getServerSideProps(context) {
 	const { id } = context.params;
