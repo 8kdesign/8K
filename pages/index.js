@@ -63,7 +63,7 @@ export default function Reviews() {
 						<Col sm={12} md={12} lg={8}>
 							<TopContent />
 						</Col>
-						<Col
+						{/* <Col
 							sm={12}
 							md={12}
 							lg={4}
@@ -72,8 +72,8 @@ export default function Reviews() {
 								marginBottom: 20,
 							}}
 						>
-							<RankBoard />
-						</Col>
+							<Extra />
+						</Col> */}
 					</Row>
 				) : null}
 				<Row>
@@ -116,21 +116,8 @@ export default function Reviews() {
 		);
 	}
 
-	function RankBoard() {
-		return (
-			<Card style={{ height: "100%" }}>
-				<Card.Header>
-					<Card.Title>Smartphone Leaderboard 2022</Card.Title>
-				</Card.Header>
-				<ListGroup className="list-group-flush">
-					<ListGroupItem>
-						<Link href="https://www.youtube.com/watch?v=N1ylduD5n5s">
-							<a target="_blank">OPPO Reno7 Pro</a>
-						</Link>
-					</ListGroupItem>
-				</ListGroup>
-			</Card>
-		);
+	function Extra() {
+		return <Card style={{ height: "100%" }}></Card>;
 	}
 
 	function Content({ currentPage }) {
