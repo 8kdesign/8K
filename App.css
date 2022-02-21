@@ -68,7 +68,7 @@
 }
 
 .Container--content {
-	margin-top: 56px;
+	margin-top: 60px;
 }
 
 /* Text */
@@ -183,47 +183,11 @@
 	);
 }
 
-.Color--screenshot {
-	background: rgb(255, 227, 135);
-	background: linear-gradient(
-		180deg,
-		rgba(255, 227, 135, 1) 20%,
-		rgba(255, 198, 53, 1) 100%
-	);
-}
-
-.Color--musicplayer {
-	background: rgb(255, 124, 124);
-	background: radial-gradient(
-		circle,
-		rgba(255, 124, 124, 1) 20%,
-		rgba(255, 82, 117, 1) 90%
-	);
-}
-
-.Color--recorder {
-	background: rgb(187, 79, 79);
-	background: radial-gradient(
-		circle,
-		rgba(187, 79, 79, 1) 20%,
-		rgba(33, 14, 18, 1) 70%
-	);
-}
-
-.Color--camera {
-	background: rgb(80, 80, 80);
-	background: linear-gradient(
-		117deg,
-		rgba(80, 80, 80, 1) 25%,
-		rgba(60, 60, 60, 1) 70%
-	);
-}
-
-.Color--browser {
+.Color--reviews {
 	background: rgb(32, 86, 108);
 	background: linear-gradient(
-		117deg,
-		rgba(32, 86, 108, 1) 20%,
-		rgba(154, 37, 37, 1) 80%
+		137deg,
+		rgba(32, 86, 108, 1) 25%,
+		rgba(102, 185, 100, 1) 100%
 	);
 }

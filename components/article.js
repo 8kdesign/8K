@@ -15,10 +15,12 @@ export default function Article({ article }) {
 				<meta property="og:image" content={article.img} />
 			</Head>
 			<Container style={{ maxWidth: 1000 }}>
-				<p className="Text--header-article">{article.title}</p>
-				<p className="Text--paragraph">{article.date}</p>
 				<Image src={article.img} fluid />
 				<div className="Buffer--50px" />
+				<p className="Text--header-article">{article.title}</p>
+				<p className="Text--paragraph">{article.date}</p>
+
+				<div className="Buffer--20px" />
 				<Row>
 					<Content postfix={article["link-postfix"]} />
 				</Row>
