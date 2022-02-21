@@ -1,0 +1,157 @@
+{
+    "article": [
+        {
+            "type": "text",
+            "text": "Those invested in the Mijia ecosystem will not be unfamiliar with the brand Aqara. Like many of Xiaomi’s partners, 绿米 makes some Mi branded products, but they also sell products under their own Aqara branding. In today’s article, we will be looking at three of Aqara’s smart home products."
+        },
+        {
+            "type": "text",
+            "text": "The products below work with both Mijia and Aqara’s app, but I will be using Mijia app in this review as it allows for connection to a wide range of products in the Mijia ecosystem."
+        },
+        {
+            "type": "header",
+            "text": "Aqara Wireless Mini Switch (¥79)"
+        },
+        {
+            "type": "text",
+            "text": "The first piece of gadget we will be taking a look at today is a button. Did I just say a button? Yep! It is just a button, but this is no ordinary button. You can set it to carry out up to 4 different commands with just one of this, activated with a single click, double click, long press or shake."
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Faqara-smart-home-gadgets-review%2Fimg1.jpg?alt=media&token=2bd7fb55-9550-4b7a-bf20-b072baf07bf2"
+        },
+        {
+            "type": "text",
+            "text": "There is a blue LED below the big button, plus a reset button on one of the sides for connection, but otherwise the design is simple and clean. A round sticker has also been included so that you can mount this thing to a wall. But I like being able to put this wherever I want, so I did not use it."
+        },
+        {
+            "type": "text",
+            "text": "Battery is replaceable by turning the cover on the back. It uses a single CR2032 battery, which can easily be found in value stores. A single battery can easily last months."
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Faqara-smart-home-gadgets-review%2Fimg2.jpg?alt=media&token=6be75d6e-af7d-4560-acc4-d2fa62bb171f"
+        },
+        {
+            "type": "header",
+            "text": "Aqara Light Switch Zigbee (¥179/199 single/double switch)"
+        },
+        {
+            "type": "text",
+            "text": "Aqara’s smart wall switch comes in one or two switch variants and the one I am using right now is the latter. There are 3 slots for your wires: one for the live wire labeled with an L, plus one for each lamp marked with L1 and L2. The hidden part is pretty thick, so make sure you have enough room for it."
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Faqara-smart-home-gadgets-review%2Fimg3.jpg?alt=media&token=9b410ea4-ed2f-458c-8ceb-e82dccc4bd0b"
+        },
+        {
+            "type": "text",
+            "text": "To install the switch, remove the switch panel with a screw driver, then connect the wiring and secure it in place with screws. Then, put back the switch panel. The switches are loaded with springs and pops back into position after you press it. The clicking sound it produces is so satisfying!"
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Faqara-smart-home-gadgets-review%2Fimg4.jpg?alt=media&token=7421a966-946d-4245-b1e2-f94100fb50ea"
+        },
+        {
+            "type": "text",
+            "text": "Like the button, the light switch’s design is clean and simple, Xiaomi style. It is also only available in matte white and I was a little concerned about getting stains on it. But after using it a couple of months, I must say it is holding up quite well. I wish Aqara would add more color options though."
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Faqara-smart-home-gadgets-review%2Fimg5.jpg?alt=media&token=f5ce3760-5013-4bdc-b24e-9274ea760d56"
+        },
+        {
+            "type": "text",
+            "text": "There are 2 blue LED lights on the bottom which lights up whenever the switch above it is on, but they are not visible unless you bend down to look. A well thought out design."
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Faqara-smart-home-gadgets-review%2Fimg6.jpg?alt=media&token=15c89b18-3d45-4d70-beba-9dcd3e3ded43"
+        },
+        {
+            "type": "header",
+            "text": "Aqara Air Conditioning Controller (¥199)"
+        },
+        {
+            "type": "text",
+            "text": "The devices above will not work without a Zigbee hub, so you need one of Aqara’s smart hubs. One of them is a speaker that works with Apple’s HomeKit, so you can control your gadgets with Siri. But I got the more affordable one with a built-in IR blaster and smart wall outlet."
+        },
+        {
+            "type": "text",
+            "text": "The hub’s exterior look modern, with matte plastic in front and glossy plastic on the rear. There is a speaker grill on the right, for radio and alarms, and a button on the bottom for quick toggle of the smart outlet. On the front is an LED light, which lights up when the smart socket is turned on."
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Faqara-smart-home-gadgets-review%2Fimg7.jpg?alt=media&token=3bd0bfa7-c5f7-409b-b9b4-8dba4fc2c1be"
+        },
+        {
+            "type": "text",
+            "text": "There is currently only one version of this with China three prong plug, so make sure you have one of those sockets at home. At first, the connectors were a little too big and wouldn’t fit into most sockets. (Strange) But that was fixed after I unplugged it a couple of time."
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Faqara-smart-home-gadgets-review%2Fimg8.jpg?alt=media&token=b6ef915a-5188-4906-9da6-3da0f731d2ce"
+        },
+        {
+            "type": "text",
+            "text": "Unlike other IR blasters, this one can only control your air conditioner but the setup is super easy and it is compatible with most air cons. Simply download the Mijia or Aqara app and add it as a device. For Mijia, under the control list, tap on “add” and turn on your air-con with your regular controller."
+        },
+        {
+            "type": "imageTriple",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Faqara-smart-home-gadgets-review%2Fimg9.jpg?alt=media&token=83a6229d-c9a6-4eb7-a26d-d7825fd5a828"
+        },
+        {
+            "type": "text",
+            "text": "The Aqara hub/controller will detect the changes and save it as a new button. Name it as “On”. Repeat the steps and turn off your air-con this time. Name this one as “Off”. Now you are good to go."
+        },
+        {
+            "type": "imageTriple",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Faqara-smart-home-gadgets-review%2Fimg10.jpg?alt=media&token=f1ea8d2d-88fa-4f5d-a5ed-72286f851081"
+        },
+        {
+            "type": "text",
+            "text": "Do note that the hub/controller has to be directly in the land of sight of your air-con’s IR receiver to work. This may not always possible, so check your wall socket’s positions before buying this hub."
+        },
+        {
+            "type": "header",
+            "text": "Setting Up Zigbee Hub"
+        },
+        {
+            "type": "text",
+            "text": "To use button and smart light switch, you need to connect them to the hub. Open the Aqara or Mijia app and add the Zigbee hub (Aqara Air Conditioning Controller) first. Follow the app’s instructions. Then, add the other devices the same way. The process should take under a minute per device."
+        },
+        {
+            "type": "imageTriple",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Faqara-smart-home-gadgets-review%2Fimg11.jpg?alt=media&token=a2ec9fa0-e7fb-469d-826a-8131eb28a86b"
+        },
+        {
+            "type": "text",
+            "text": "Once done, you should see all of them under “My Devices”. Click on the “Wireless Mini Switch” and select add scenes. Add the “if _, then_” commands and save the scene. As mentioned earlier, you have 4 options for “if” with one of this button, so you can control up to 4 devices."
+        },
+        {
+            "type": "imageTriple",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Faqara-smart-home-gadgets-review%2Fimg12.jpg?alt=media&token=d281f23b-261c-4971-afa4-28bcbb0e6fc1"
+        },
+        {
+            "type": "text",
+            "text": "For me, single click turns on/off my track lighting and double click does the same for the ceiling lamp above my bed. Both are physically connected to my Aqara Light Switch. With the button placed on a table near my bed, I do not have to leave my bed to turn off the lights at night."
+        },
+        {
+            "type": "imageDouble",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Faqara-smart-home-gadgets-review%2Fimg13.gif?alt=media&token=b12bea29-e9be-4311-8fa6-35f5018fa934"
+        },
+        {
+            "type": "imageDouble",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Faqara-smart-home-gadgets-review%2Fimg14.gif?alt=media&token=d2ead67a-0ff4-4620-84c3-b923c70608bf"
+        },
+        {
+            "type": "text",
+            "text": "Aqara has many more gadgets that will work with the button and you can check them out on Aqara’s website. It will also work with most of the devices in Mijia ecosystem, including the Xiaoai smart speaker. However, Xiaoai’s smart home control isn’t very well implemented so I don’t recommend using it."
+        },
+        {
+            "type": "text",
+            "text": "Overall, I am very satisfied with my purchase from Aqara and will highly recommend them. At around S$100 for all three products, it may seem expensive at first. But considering that some Zigbee hubs alone cost over S$100 and have no additional functions, Aqara’s solution is pretty affordable."
+        }
+        
+    ]
+}

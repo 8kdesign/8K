@@ -1,0 +1,240 @@
+{
+    "article": [
+        {
+            "type": "text",
+            "text": "For years, everyone has been asking: What is the next big thing after smartphones? From the launch of iPhone in 2007, smartphones have improved drastically over the years. But the form factor remained the same; smartphones in general are still a brick with a display in front."
+        },
+        {
+            "type": "text",
+            "text": "Not that the industry didn’t experiment with other form factors, but none has made an impact yet. In 2012, ASUS released a phone that could slide into a larger display. 2016 was the year we got modular phones. And last year, the first foldable phones went on sale. "
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fsmartwatch-future-of-smartphones%2Fimg1.jpg?alt=media&token=559b5108-a492-4ae8-ac11-b006aa215b38"
+        },
+        {
+            "type": "text",
+            "text": "There were also non-phone attempts at redefining phones, most notably smartwatch and smart glasses. Both wearables have functionality that overlaps with smartphones, and have the potential to take over its role. However, current wearables are merely treated as add-ons to our phones."
+        },
+        {
+            "type": "header",
+            "text": "Why Smartwatches?"
+        },
+        {
+            "type": "text",
+            "text": "Without us realizing, smartphones are a huge burden in our lives. Going for a run? Have fun tugging your phone along. Leaving the café after having a cup of hot chocolate? Check if you left your phone behind. Are your hands occupied by grocery bags? Good luck answering that call."
+        },
+        {
+            "type": "text",
+            "text": "But with a wearable, such inconveniences can be avoided. And the wearable that is most likely to succeed are smartwatches. Why? It is a lot easier to convince users to wear something around their wrist then something on their face. Afterall, watches are considered to be a symbol of status."
+        },
+        {
+            "type": "text",
+            "text": "Also, technology is way more mature for smartwatches than smart glasses."
+        },
+        {
+            "type": "header",
+            "text": "Current State of Smartwatches"
+        },
+        {
+            "type": "text",
+            "text": "As mentioned earlier, today’s smartwatches are just an extension to our phones. Other than the Apple Watch (and recently the Mi Watch), current smartwatches are just enlarged fitness trackers. Apart from fitness tracking, all they do is relay messages/commands to and from your phone."
+        },
+        {
+            "type": "text",
+            "text": "You can use a phone without a smartwatch, but not the reverse."
+        },
+        {
+            "type": "text",
+            "text": "Meanwhile, Apple Watch is a lot more capable, with apps and cellular support. It is almost like a wrist-worn iPhone. But that, along with the fact that you need an iPhone to set it up, may be its biggest obstacle."
+        },
+        {
+            "type": "text",
+            "text": "Depending on how you use it, it is either a “wrist-worn mini iPhone” or an accessory to the iPhone. But either way, it isn’t going to take over the phone as the most important piece of tech gadget in your life."
+        },
+        {
+            "type": "header",
+            "text": "Obstacles to Smartwatches Need Overcome"
+        },
+        {
+            "type": "text",
+            "text": "The biggest headache of shifting from a smartphone to a smartwatch is space. Specifically, the lack of space for battery. How do you fit all the essential parts of a smartphone into such a small space, without sacrificing battery? A breakthrough in battery tech will help greatly."
+        },
+        {
+            "type": "text",
+            "text": "Another area that requires work is UI. It is a much smaller display, so the way we interact with it has to be different. Users has to be able to do advanced tasks, with as little interaction as possible. This is where voice assistants and automation will come into play."
+        },
+        {
+            "type": "text",
+            "text": "Lastly, we need to rethink about how smartwatches interact with other electronic devices."
+        },
+        {
+            "type": "text",
+            "text": "Most electronics we have today are connected to your phone in some way. Your smart home devices are set up via an app on your phone. You cast YouTube videos from your phone to the TV. And maybe you send files to the printer directly from your phone."
+        },
+        {
+            "type": "text",
+            "text": "For smartwatch to become the core device, it should be able to do all of that, in its own way."
+        },
+        {
+            "type": "text",
+            "text": "We also need to figure out its new relationship with the devices we call phones today. While it may take over the role of phones one day, the truth is we still need a large handheld display for things like gaming and taking photos. Smartwatches will only take over its position as the core device, not replace it."
+        },
+        {
+            "type": "header",
+            "text": "Smartwatch Concept by 8K – Fundamentals"
+        },
+        {
+            "type": "text",
+            "text": "Before I begin with how smartwatch as a primary device will work, we need to talk about what it needs to do. As I have just mentioned, it will not replace smartphones. Instead, it will adopt key features of smartphones, leaving features that require a larger screen for smart displays*."
+        },
+        {
+            "type": "text",
+            "text": "*aka smartphones or tablets without cellular"
+        },
+        {
+            "type": "text",
+            "text": "Here are the features I have identified:"
+        },
+        {
+            "type": "text",
+            "text": "1) Make phone calls, messages and manage contacts"
+        },
+        {
+            "type": "text",
+            "text": "2) Provide users with notifications & reminders"
+        },
+        {
+            "type": "text",
+            "text": "3) Navigate with GPS"
+        },
+        {
+            "type": "text",
+            "text": "4) Play music to Bluetooth headphones & speakers"
+        },
+        {
+            "type": "text",
+            "text": "5) Make mobile payments, including non-NFC"
+        },
+        {
+            "type": "text",
+            "text": "6) Cast videos and presentations to TV or projectors, documents to printers"
+        },
+        {
+            "type": "text",
+            "text": "7) Hotspot network to other devices"
+        },
+        {
+            "type": "text",
+            "text": "8) Set up and control smart home devices"
+        },
+        {
+            "type": "text",
+            "text": "9) Store documents, photos, videos and music"
+        },
+        {
+            "type": "text",
+            "text": "10) Book a Grab"
+        },
+        {
+            "type": "text",
+            "text": "11) Conduct basic web search and calculations"
+        },
+        {
+            "type": "text",
+            "text": "12) Store and push app data to smart display"
+        },
+        {
+            "type": "header",
+            "text": "Smartwatch Concept by 8K – Intelligent UI"
+        },
+        {
+            "type": "text",
+            "text": "With a small display, number of toggles on screen should be limited to a max of 3 for a round display, and 4 for a square one. At the same time, we need to minimize interaction. This is a huge challenge considering that there are many features we need to pack into the watch."
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fsmartwatch-future-of-smartphones%2Fimg2.jpg?alt=media&token=c8af42e9-ab8b-4bd7-9b91-52fc20c4b409"
+        },
+        {
+            "type": "text",
+            "text": "Hence, it can really benefit from a UI centered around voice assistant, using that as the primary mode of interaction. A swipe/tap menu is still required, for use when the situation isn’t ideal for speaking."
+        },
+        {
+            "type": "text",
+            "text": "The watch should also make intelligent suggestions based on your activities and location. For example, the watch can recommend you to Grab when you are running late for work. If you haven’t left your office for lunch by 1pm, it might recommend you to Deliveroo some food."
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fsmartwatch-future-of-smartphones%2Fimg3.jpg?alt=media&token=22bca938-6eab-4a11-a32a-f1ffeb2b23cd"
+        },
+        {
+            "type": "header",
+            "text": "Smartwatch Concept by 8K – Tap & Share"
+        },
+        {
+            "type": "text",
+            "text": "Having to pair and then connect to an external device is very troublesome on our phone. On smartwatch, it will be worse. A solution to this already exists: NFC. With just a tap, you can tell one device to interact with another. Using this on a smartwatch will negate the need for a lengthy setup process."
+        },
+        {
+            "type": "text",
+            "text": "Example #1 – Switching to smart display during a call"
+        },
+        {
+            "type": "text",
+            "text": "The concept watch can make phone calls with built-in speaker and microphones. But sometimes you want some privacy. You can use a pair of earphones, but you may not have one on you all the time. Alternatively, you can tap to pair your smart display, and answer the call like on a smartphone."
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fsmartwatch-future-of-smartphones%2Fimg4.jpg?alt=media&token=603c1b7f-f4da-486f-b623-4a35483f292e"
+        },
+        {
+            "type": "text",
+            "text": "You are not limited to the dialer app. When you receive a social media notification, you can tap your smart display on the watch and the social media app will open on the smart display."
+        },
+        {
+            "type": "text",
+            "text": "Example #2 – Casting content to a projector"
+        },
+        {
+            "type": "text",
+            "text": "You received a reminder that your presentation starts in 10 minutes. Bringing just your smartwatch, you enter the meeting room. Your smartwatch recommends you open the PowerPoint slides. Accept it, then tap the projector remote to cast your slideshow. Isn’t it easy?"
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fsmartwatch-future-of-smartphones%2Fimg5.jpg?alt=media&token=e76959c4-c468-419a-a20b-6c5e730ef4a4"
+        },
+        {
+            "type": "header",
+            "text": "Smartwatch Concept by 8K – Unified Smart Screen Experience"
+        },
+        {
+            "type": "text",
+            "text": "It can be annoying when we have a different set of app data on our phone and tablet. Smartwatch might be the solution to this. Imagine being able to store all your app data on it."
+        },
+        {
+            "type": "text",
+            "text": "Tap a smart display on the smartwatch to pair it. As you open up apps, existing app data on the smartwatch will be transferred to the smart display. The smart display taps on your smartwatch’s mobile data when there isn’t Wi-Fi, so you don’t need a SIM card in it."
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fsmartwatch-future-of-smartphones%2Fimg6.jpg?alt=media&token=20d8c641-e0cb-440b-a4c8-2587195584b9"
+        },
+        {
+            "type": "text",
+            "text": "When you disconnect the smart display from the smartwatch, the updated app data will then be transferred to the smartwatch. App data on the smart display is then deleted, leaving only the apps."
+        },
+        {
+            "type": "text",
+            "text": "The advantage? You can share smart displays with your family and friends, potentially reducing e-waste. Or if you own multiple smart displays, you can switch between them without any hassle."
+        },
+        {
+            "type": "text",
+            "text": "*cough* WhatsApp *cough*"
+        },
+        {
+            "type": "text",
+            "text": "That is all the time I have for this concept. If you would like to see more, do let me know."
+        }
+    ]
+}

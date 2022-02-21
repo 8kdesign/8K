@@ -1,0 +1,89 @@
+{
+	"articles": [
+		{
+			"title": "OPPO Watch (46mm) Review",
+			"date": "August 10, 2020",
+			"link-postfix": "oppo-watch-46mm-review",
+			"img": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/article_thumbnails%2FOPPO%20Watch%20Review%20Thumbnail.jpg?alt=media&token=352337e2-1365-40b4-9d7d-e54e33379deb"
+		},
+		{
+			"title": "Smartwatch – Future of Smartphones",
+			"date": "February 10, 2020",
+			"link-postfix": "smartwatch-future-of-smartphones",
+			"img": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/article_thumbnails%2FSmartwatch%20Future%20of%20Smartphones.jpg?alt=media&token=b8c3b890-25af-4466-b79c-be25eb253881"
+		},
+		{
+			"title": "Logitech K375s Keyboard & M331 Mouse Review",
+			"date": "October 4, 2019",
+			"link-postfix": "logitech-k375s-keyboard-m331-mouse-review",
+			"img": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/article_thumbnails%2FLogitech%20M331%20%26%20K375s.jpg?alt=media&token=4c12797a-3ee6-4674-99c7-904e8c68776a"
+		},
+		{
+			"title": "Yeelight Clip-On Lamp J1 & Rechargable Sensor Night Light Review",
+			"date": "September 27, 2019",
+			"link-postfix": "yeelight-clip-on-lamp-j1-rechargable-sensor-night-light-review",
+			"img": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/article_thumbnails%2FYeelight.jpg?alt=media&token=0fe0f7b3-57b5-4f1c-ba2d-44daee76bb62"
+		},
+		{
+			"title": "Mi Band 4 Review – It’s All About That Colored Display",
+			"date": "August 4, 2019",
+			"link-postfix": "mi-band-4-review",
+			"img": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/article_thumbnails%2FMi%20Band%204.jpg?alt=media&token=33ff8877-abb1-4e31-9eee-e2c95acd89e1"
+		},
+		{
+			"title": "Creative SXFI Air Review – Holographic: Future of Audio?",
+			"date": "June 20, 2019",
+			"link-postfix": "creative-sxfi-air-review",
+			"img": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/article_thumbnails%2FSXFI%20Air.jpg?alt=media&token=9c30d5cb-e225-4b83-b1c1-19359ba28d5c"
+		},
+		{
+			"title": "OPPO Reno 10x Zoom Preview",
+			"date": "June 11, 2019",
+			"link-postfix": "oppo-reno-10x-zoom-preview",
+			"img": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/article_thumbnails%2FReno%2010x.jpg?alt=media&token=31363b9d-b2f3-4e8c-bb7d-1565b61c462d"
+		},
+		{
+			"title": "Redmi 7 Review – The True Redmi 5 Successor!",
+			"date": "April 27, 2019",
+			"link-postfix": "redmi-7-review",
+			"img": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/article_thumbnails%2FRedmi7.jpg?alt=media&token=02472f48-d8bc-4ac5-900c-349052183e29"
+		},
+
+		{
+			"title": "Redmi Note 7 Review – The Beast is Back!",
+			"date": "April 9, 2019",
+			"link-postfix": "redmi-note-7-review",
+			"img": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/article_thumbnails%2FRedmiNote7.jpg?alt=media&token=6f50b120-9528-4f76-adcd-384fba6183b2"
+		},
+		{
+			"title": "Honor Band 4 Review – New Gold Standard for Budget Fitness Tracker?",
+			"date": "March 9, 2019",
+			"link-postfix": "honor-band-4-review",
+			"img": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/article_thumbnails%2FHonorBand4.jpg?alt=media&token=082e6362-1934-405d-92dd-7762ba028b9c"
+		},
+		{
+			"title": "Aqara Smart Home Gadgets Review – Affordable Smart Home!",
+			"date": "February 2, 2019",
+			"link-postfix": "aqara-smart-home-gadgets-review",
+			"img": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/article_thumbnails%2FAqara.jpg?alt=media&token=d495adbc-b91f-4d42-a91f-aed60e6e2dda"
+		},
+		{
+			"title": "Vivo V11 Review – Vivo X21 But Better & More Affordable",
+			"date": "December 25, 2018",
+			"link-postfix": "vivo-v11-review",
+			"img": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/article_thumbnails%2FVivo%20V11%20Review.jpg?alt=media&token=780ba065-e129-4707-bb63-848f0c7fdb56"
+		},
+		{
+			"title": "MADV Madventure 360 Review – 360° Action Camera!",
+			"date": "December 18, 2018",
+			"link-postfix": "madv-madventure-360-review",
+			"img": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/article_thumbnails%2FMADV.jpg?alt=media&token=cedd4ab7-c607-47a2-9103-0f5c1c10457c"
+		},
+		{
+			"title": "Redmi Note 6 Pro Review – Still the Best Value for Money?",
+			"date": "November 11, 2018",
+			"link-postfix": "redmi-note-6-pro-review",
+			"img": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/article_thumbnails%2FRedmiNote6Pro.jpg?alt=media&token=183d5bc3-432d-4a1d-8026-2cff87fc770a"
+		}
+	]
+}

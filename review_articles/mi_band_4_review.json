@@ -1,0 +1,344 @@
+{
+    "article": [
+        {
+            "type": "text",
+            "text": "I never got to reviewing the Mi Band 3, and you can thank the Honor Band 4 for that. With a colored display at S$4 more, it just seemed like a better deal. And a colored display is what Xiaomi delivered on the new Mi Band 4. Will this help Xiaomi regain its position as the best budget fitness tracker? Let’s find out!"
+        },
+        {
+            "type": "text",
+            "text": "(Btw, I am still on my 3 month hiatus. I just couldn’t resist taking a break to review what could possibly be the most exciting wearable of 2019. I will be back in October.)"
+        },
+        {
+            "type": "header",
+            "text": "Pricing & Variants – Regular or NFC Mi band 4?"
+        },
+        {
+            "type": "text",
+            "text": "Before we take a look at the device, here is something you should know. There are 2 versions of Mi Band 4: the regular one going for S$55 here in Singapore, while the NFC version exclusive to China at ¥229. On top of having NFC as the name implies, it also has the Xiaoai assistant built-in."
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg1.jpg?alt=media&token=fb6c77a2-d425-4f94-9d2b-40d771c685a3"
+        },
+        {
+            "type": "text",
+            "text": "Well, I have both of them with me, so let’s see if it is worth shipping back the NFC version from China."
+        },
+        {
+            "type": "header",
+            "text": "Design – The Biggest Update in Mi Band History"
+        },
+        {
+            "type": "text",
+            "text": "From my understanding, Mi Band 4 shares the same strap as the Mi Band 3. It is flexible and smooth, making it comfortable around the wrist. Yet, it is quite sturdy, so I am not worrying about it breaking like the first-gen. The only thing I would change is add a couple of holes for ventilation."
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg2.jpg?alt=media&token=f16f0829-9226-4f42-93dd-96ebb213f833"
+        },
+        {
+            "type": "text",
+            "text": "Next is the tracker itself, which can be separated from the strap. You still have to remove it to charge, but the charger now attaches to the pins on the back, instead of the bottom of the tracker. This new design should help address the charging issues old bands had. So far so good from my testing."
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg3.jpg?alt=media&token=8cb64cbc-7943-4881-b942-5a1af770a6d3"
+        },
+        {
+            "type": "text",
+            "text": "Also located on the back is the heart-rate sensor. To the front, we have of course that majestic 0.95” AMOLED display, protected by tempered glass. I already got scratches on mine though. Screen-to-body ratio is not very big but use a watch face with black background and you won’t be able to tell."
+        },
+        {
+            "type": "imageDouble",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg4.jpg?alt=media&token=e957f5ce-bd78-468e-b7d7-66cd7499b9ab"
+        },
+        {
+            "type": "imageDouble",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg5.jpg?alt=media&token=7381e27d-c383-407a-accc-a02076a78998"
+        },
+        {
+            "type": "text",
+            "text": "There are 5 levels of brightness. At the default medium brightness, it is not too harsh to the eyes, but is barely visible under sunlight. Meanwhile, it is very clear under sunlight at max brightness, but it hurts the eyes under low light. I recommend setting it to level 4 brightness."
+        },
+        {
+            "type": "text",
+            "text": "This display is touchscreen and there is also a capacitive button right below the display."
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg6.gif?alt=media&token=6170c922-1f3e-4a5d-a87d-ba899a054c04"
+        },
+        {
+            "type": "header",
+            "text": "App – Mi Fit has Come a Long Way"
+        },
+        {
+            "type": "text",
+            "text": "Mi Fit has changed quite a bit since the last time I used it. Its design is rounder, and the status page has received a new layout to make better use of the space. Like before, it is very feature packed, even more so than before. But it is starting to get a little disorganized and things can get a little hard to find."
+        },
+        {
+            "type": "imageTriple",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg7.jpg?alt=media&token=7b9951f5-0af4-4fc4-9d85-8dfcdab762b5"
+        },
+        {
+            "type": "text",
+            "text": "To get started, login with your Mi account and select “Add device” under profile."
+        },
+        {
+            "type": "text",
+            "text": "The setup process is quick you will be prompted to update once paired. It should take a couple of minutes. There are a lot of things you can customize in the settings; I am not going to go through all of them, but here are a couple of things you should do once you pair your band with your phone:"
+        },
+        {
+            "type": "subheader",
+            "text": "Change Watch Face"
+        },
+        {
+            "type": "text",
+            "text": "Firstly, there are many different watch faces under “Band displays”, which you can download then sync to your band. Some of them are really cute! Can’t find something you like? I am sure Xiaomi will add more in the future, but you can manually add more via a third-party app called AmazFaces."
+        },
+        {
+            "type": "imageTriple",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg8.jpg?alt=media&token=48daccca-3cdf-4429-8d3f-71710025253f"
+        },
+        {
+            "type": "subheader",
+            "text": "Run in Background"
+        },
+        {
+            "type": "text",
+            "text": "Next, to ensure that you band is connected to your phone all the time for messages and calls, you want to go to “Run in background” in the settings. The app will auto detect your phone brand and guide you on how to keep the Mi Fit app running in the background all the time."
+        },
+        {
+            "type": "imageTriple",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg9.jpg?alt=media&token=202e39ef-c503-44ba-b49a-9dd043af152a"
+        },
+        {
+            "type": "subheader",
+            "text": "Reduce Pages for Better Experience"
+        },
+        {
+            "type": "text",
+            "text": "Lastly, go hide some of the pages in “Display settings” to make the band’s UI less cluttered. With a watch face that also shows your steps progress, there is no need for the “Status” page. Also, why check the current weather on the app when you can see it yourself? Go ahead and hide that too."
+        },
+        {
+            "type": "imageTriple",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg10.jpg?alt=media&token=e03f210d-71ca-4f3e-aa0d-aba1f2a67f29"
+        },
+        {
+            "type": "subheader",
+            "text": "Steps Tracking – Accurate for Walking, Decent for Running"
+        },
+        {
+            "type": "text",
+            "text": "For this comparison, I put it against the Honor Band 4, wearing both on the same hand. For every 100 steps I walked, the Mi Band 4 would be off by 2-6 steps on average, similarly for the Honor Band 4. When running, the Mi Band 4 seems to be slightly more accurate than the Honor Band 4."
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg11.jpg?alt=media&token=295e8bff-f73d-4ab5-93ec-a7848a6ec029"
+        },
+        {
+            "type": "text",
+            "text": "You can start a workout on both bands, and you get a variety of workouts on both: from running to cycling and swimming. I tested out the running workout on both bands and they got almost identical distance readings, possibly due to both being able to tap on your phone’s GPS."
+        },
+        {
+            "type": "imageDouble",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg12.jpg?alt=media&token=8080e56a-c8c0-47b5-bfd3-1453d0973481"
+        },
+        {
+            "type": "imageDouble",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg13.jpg?alt=media&token=1bd2890d-304b-44d4-926a-c2700bb16c57"
+        },
+        {
+            "type": "imageDouble",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg14.jpg?alt=media&token=9dcc2228-e4d6-4b76-af4f-9f766c71eefb"
+        },
+        {
+            "type": "imageDouble",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg15.jpg?alt=media&token=c2dd2521-21de-4098-b727-a27b9aef72e6"
+        },
+        {
+            "type": "text",
+            "text": "Mi Band 4 (#1), Honor Band 4 (#1), Mi Band 4 (#2), Honor Band 4 (#2)"
+        },
+        {
+            "type": "text",
+            "text": "At the end of each running workout, you will get a map of your run, as well as readings taken during the run. Will talk more about the heartrate readings in a short while."
+        },
+        {
+            "type": "subheader",
+            "text": "Sleep Tracking – Accurate Wake Time"
+        },
+        {
+            "type": "text",
+            "text": "Another basic function of fitness tracker is the ability to track sleep and the Mi Band 4 can do that, with a trick up its sleeves. With Sleep Assistant, Mi Band 4 will use your heart rate data to measure your sleep cycle, providing more accurate readings. It does consume more battery though."
+        },
+        {
+            "type": "imageDouble",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg16.jpg?alt=media&token=2b342a59-8e0b-486c-9985-8985093b075e"
+        },
+        {
+            "type": "text",
+            "text": "With Sleep Assistant enabled, I wore the Mi Band 4 to sleep, along with the Honor Band 4 and Lifesense Band 2. Both the Mi Band 4 and Honor Band 4 were accurately detected that I woke up at 5:16am. Meanwhile, the Lifesense Band 2 only stopped 4 minutes later."
+        },
+        {
+            "type": "imageTriple",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg17.jpg?alt=media&token=0dc11eb1-0fa1-44e8-8bd2-11a2463d5892"
+        },
+        {
+            "type": "imageTriple",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg18.jpg?alt=media&token=969d7fae-5d0a-4a2e-a50e-dc294ad72988"
+        },
+        {
+            "type": "imageTriple",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg19.jpg?alt=media&token=36f2fdd8-2c9c-41a1-a668-05839b1d4a38"
+        },
+        {
+            "type": "text",
+            "text": "Mi Band 4, Honor Band 4, Lifesense Band 2"
+        },
+        {
+            "type": "text",
+            "text": "However, only Honor band 4 was able to detect that I went back to my bed a short while after that. The deep sleep readings are completely different on all three bands, so take their results with a pinch of salt."
+        },
+        {
+            "type": "header",
+            "text": "Heart Rate Monitoring – Quite Good for a S$55 Fitness Tracker"
+        },
+        {
+            "type": "text",
+            "text": "Mi Band 4 is capable of continuous heart rate monitoring, which records your heart rate throughout the entire day. If you are a fitness enthusiast, this feature is a must have. But for everyone else, you might want to turn it off as it greatly reduces battery life. More on battery life later."
+        },
+        {
+            "type": "text",
+            "text": "I did a quick comparison with the Honor Band 4, wearing both on the same hand. The graphs’ shape was similar, but there is quite a bit a difference in max heartrate. What matters though is the ability to quickly detect changes in heart rate, and both bands did an excellent job."
+        },
+        {
+            "type": "imageDouble",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg20.jpg?alt=media&token=8016fb81-17c4-43b9-9d09-139c75e59523"
+        },
+        {
+            "type": "imageDouble",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg21.jpg?alt=media&token=242a07ac-77ad-4aba-bee6-81aecae84327"
+        },
+        {
+            "type": "text",
+            "text": "Mi Band 4, Honor Band 4"
+        },
+        {
+            "type": "text",
+            "text": "That said, none of these are medical-grade devices and their readings should not be taken too seriously. If you have any medical conditions, do consult your doctor on what to get."
+        },
+        {
+            "type": "header",
+            "text": "Other Features – Music Control & More!"
+        },
+        {
+            "type": "text",
+            "text": "With that AMOLED touchscreen, not only do you get cute watch faces, but also more functionality. You can start a timer, enable alarms, and most importantly, control music playing on your phone."
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg22.jpg?alt=media&token=c905c815-b5c6-4ac8-b10a-d147cad2c783"
+        },
+        {
+            "type": "text",
+            "text": "From the Mi Band 4, you can see what music is playing, select play/pause, skip between tracks and even control volume. For a device so small, execution is challenging, and I must say that Xiaomi did it. It works surprisingly well and can even be used as a remote camera shutter."
+        },
+        {
+            "type": "text",
+            "text": "There are 2 ways to get to music control on the Mi Band 4. The first and longer way is to swipe to “more” and select music. Alternatively, you can swipe left or right on the watch face. Being able to control music playback without having to take out my phone from the pocket is just so convenient."
+        },
+        {
+            "type": "imageDouble",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg23.gif?alt=media&token=6c0142be-f842-4ac6-bbfa-1a9f47b830a6"
+        },
+        {
+            "type": "imageDouble",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg24.gif?alt=media&token=2724b6cc-716d-422b-a3cc-2449118a4580"
+        },
+        {
+            "type": "text",
+            "text": "Mi Band 4 has a water resistance of 5 ATM, so it is ok to bring it for a swim."
+        },
+        {
+            "type": "header",
+            "text": "NFC Exclusive Features – Only Useful in China"
+        },
+        {
+            "type": "text",
+            "text": "Now, let’s take a look at the NFC version. Before you pair the band, you will want to make sure that your Mi account’s region is China. Most of the additional features are region locked. If your current account’s region is not China, you will have to create a new Mi account. Very troublesome indeed."
+        },
+        {
+            "type": "text",
+            "text": "As the name suggests, this version comes with NFC, allowing for mobile payments and smart lock unlocking. However, there are only a couple of cards you can add and all are exclusive to China. Meanwhile, setting up a smart lock card requires China IC authentication. The NFC function is basically useless here."
+        },
+        {
+            "type": "imageTriple",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg25.jpg?alt=media&token=3f717f24-c46d-4356-92eb-2980703f385b"
+        },
+        {
+            "type": "text",
+            "text": "With the NFC version, the Mi Band 4 also gains a microphone on the rear so you can communicate with Xiaoai. Don’t get too excited though as this is a very watered down version of Xiaoai."
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg26.jpg?alt=media&token=8e5f70c7-71f1-463d-8bfd-f38f4bedae81"
+        },
+        {
+            "type": "text",
+            "text": "Unlike the speaker version, you can’t activate it by saying “小爱同学“. Instead, you must swipe right from the watch face to bring it up. Due to the lack of a built-in speaker, it will only show you the response on that tiny display. All those words on such a tiny display is a pain to read."
+        },
+        {
+            "type": "imageDouble",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg27.jpg?alt=media&token=7e6ffad0-079d-4e03-846d-0b98d45368d4"
+        },
+        {
+            "type": "imageDouble",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg28.gif?alt=media&token=eaa59f05-0803-4247-b3a1-a8473792abe2"
+        },
+        {
+            "type": "text",
+            "text": "Xiaoai on the Mi Band 4 can only do very basic stuff now. It can search for answers on the internet, provide shortcuts to features in the apps and even control your Mijia smart home products. But that is it. You can’t ask it to play a specific song on your phone via QQ music and it often gets what you say wrong."
+        },
+        {
+            "type": "text",
+            "text": "So is it worth going through all that trouble to ship back the NFC version? No way. The only extra thing you get to use here is Xiaoai and it isn’t very well implemented."
+        },
+        {
+            "type": "header",
+            "text": "Battery – Close to 2 Weeks with Most Features Enabled"
+        },
+        {
+            "type": "text",
+            "text": "Despite it’s coloured display, the Mi Band 4 has relatively impressive battery life. With all key features enabled and brightness at level 4, the regular version was able to last me an impressive 12 days on a charge. With less intensive usage, Xiaomi claims you can get about 20 days of usage on one charge."
+        },
+        {
+            "type": "text",
+            "text": "Meanwhile, the NFC version has shorter endurance as it has a smaller battery and more components to power. With similar usage, I was able to drain it down to 73% in a little over 2.5 days, so it should last for about 9-10 days. Xiaomi claims battery life of around 15 days on a single charge."
+        },
+        {
+            "type": "header",
+            "text": "Future Improvements"
+        },
+        {
+            "type": "text",
+            "text": "While the Mi Band 4 is bright enough under sunlight, it isn’t ideal to have maximum brightness in the dark. I wish there was an ambient light sensor for automatic adjustment of brightness."
+        },
+        {
+            "type": "text",
+            "text": "It would also be nice if Xiaomi allow users to customize watch faces directly from the Mi Fit app. Right now, it is possible to make your own watch faces, but it is a pretty complicated process."
+        },
+        {
+            "type": "text",
+            "text": "Next, I hope to see future straps with wider and more holes like on the Honor Band 4. This would allow for better wrist ventilation, and prevents water from getting trapped in-between."
+        },
+        {
+            "type": "imageSingle",
+            "text": "https://firebasestorage.googleapis.com/v0/b/logicui-9667a.appspot.com/o/reviews%2Fmi-band-4-review%2Fimg29.jpg?alt=media&token=c8255f04-0387-42e2-b734-31128343cbc3"
+        },
+        {
+            "type": "text",
+            "text": "Lastly, for the NFC version, I wish Xiaomi would just use the regular version of Xiaoai and allow users to wake it with a voice command, The current one is pretty much useless at the moment."
+        }
+    ]
+}
