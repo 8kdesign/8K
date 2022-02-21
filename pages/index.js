@@ -1,7 +1,16 @@
 import Head from "next/head";
 import Link from "next/link";
 import { useState } from "react";
-import { Card, Col, Container, Image, Pagination, Row } from "react-bootstrap";
+import {
+	Card,
+	Col,
+	Container,
+	Image,
+	ListGroup,
+	ListGroupItem,
+	Pagination,
+	Row,
+} from "react-bootstrap";
 import articlesFile from "../review_articles/articles.json";
 
 const itemsPerPage = 9;
@@ -63,7 +72,7 @@ export default function Reviews() {
 								marginBottom: 20,
 							}}
 						>
-							<YoutubeChannel />
+							<RankBoard />
 						</Col>
 					</Row>
 				) : null}
@@ -107,8 +116,21 @@ export default function Reviews() {
 		);
 	}
 
-	function YoutubeChannel() {
-		return <Card style={{ height: "100%" }}></Card>;
+	function RankBoard() {
+		return (
+			<Card style={{ height: "100%" }}>
+				<Card.Header>
+					<Card.Title>Smartphone Leaderboard 2022</Card.Title>
+				</Card.Header>
+				<ListGroup className="list-group-flush">
+					<ListGroupItem>
+						<Link href="https://www.youtube.com/watch?v=N1ylduD5n5s">
+							<a target="_blank">OPPO Reno7 Pro</a>
+						</Link>
+					</ListGroupItem>
+				</ListGroup>
+			</Card>
+		);
 	}
 
 	function Content({ currentPage }) {

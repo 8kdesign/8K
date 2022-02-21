@@ -23,7 +23,10 @@ export default function Article({ article }) {
 				<div className="Buffer--20px" />
 				<Row>
 					{article.video !== undefined ? (
-						<YouTube url={article.video} />
+						<p className="Text--paragraph">
+							Watch it here:{" "}
+							<a href={article.video}>{article.video}</a>
+						</p>
 					) : null}
 					<Content postfix={article["link-postfix"]} />
 				</Row>
