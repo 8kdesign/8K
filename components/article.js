@@ -51,6 +51,7 @@ function getItem(item) {
 						target="_blank"
 						href={item.link}
 						className="Text--paragraph"
+						rel="noreferrer"
 					>
 						{item.text}
 					</a>
